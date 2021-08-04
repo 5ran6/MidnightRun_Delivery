@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "410522356318",
-    "project_id": "e-food-9e6e3",
-    "storage_bucket": "e-food-9e6e3.appspot.com"
+    "project_number": "28338603779",
+    "project_id": "midnightruns-9a813",
+    "storage_bucket": "midnightruns-9a813.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:410522356318:android:b9ced0378f97049a3dc2cf",
+        "mobilesdk_app_id": "1:28338603779:android:a501c1e01a52ed2b934b36",
         "android_client_info": {
-          "package_name": "com.u6amtech.flutter_restaurant"
+          "package_name": "ng.midnightrunz.delivery"
         }
       },
       "oauth_client": [
         {
-          "client_id": "410522356318-vhflq8bvbr727337qort78m3i744l8dp.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.u6amtech.flutter_restaurant",
-            "certificate_hash": "87f723e5721c8c8eb805f9a08bf95d5e1e0183b7"
-          }
-        },
-        {
-          "client_id": "410522356318-0m721qqiuria4ssofsjic7kt7k6ep154.apps.googleusercontent.com",
+          "client_id": "28338603779-ui3ipmffjnhet40acctfg845tl11048i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB7Uag9C-fHlCncDgLYtnN08TzIpKzKaj8"
+          "current_key": "AIzaSyAw7F2v2VeD415_KV_hEG0SL6arIx_TJuw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "410522356318-0m721qqiuria4ssofsjic7kt7k6ep154.apps.googleusercontent.com",
+              "client_id": "28338603779-ui3ipmffjnhet40acctfg845tl11048i.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -44,35 +36,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:410522356318:android:645bda9c18b8f7623dc2cf",
+        "mobilesdk_app_id": "1:28338603779:android:232582c6c6cd06e9934b36",
         "android_client_info": {
-          "package_name": "com.u6amtech.resturant_delivery_boy"
+          "package_name": "ng.midnightrunz.user"
         }
       },
       "oauth_client": [
         {
-          "client_id": "410522356318-t1154nuc6g08eme8bib62h04dshuq4j7.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.u6amtech.resturant_delivery_boy",
-            "certificate_hash": "87f723e5721c8c8eb805f9a08bf95d5e1e0183b7"
-          }
-        },
-        {
-          "client_id": "410522356318-0m721qqiuria4ssofsjic7kt7k6ep154.apps.googleusercontent.com",
+          "client_id": "28338603779-ui3ipmffjnhet40acctfg845tl11048i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB7Uag9C-fHlCncDgLYtnN08TzIpKzKaj8"
+          "current_key": "AIzaSyAw7F2v2VeD415_KV_hEG0SL6arIx_TJuw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "410522356318-0m721qqiuria4ssofsjic7kt7k6ep154.apps.googleusercontent.com",
+              "client_id": "28338603779-ui3ipmffjnhet40acctfg845tl11048i.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

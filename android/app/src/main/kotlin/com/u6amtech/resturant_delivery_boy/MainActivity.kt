@@ -1,4 +1,4 @@
-package com.u6amtech.resturant_delivery_boy
+package ng.midnightrunz.delivery
 
 import io.flutter.embedding.android.FlutterActivity
 
