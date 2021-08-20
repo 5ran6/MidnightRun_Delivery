@@ -2,7 +2,7 @@ import 'package:resturant_delivery_boy/data/model/response/language_model.dart';
 import 'package:resturant_delivery_boy/utill/images.dart';
 
 class AppConstants {
-  static const String APP_NAME = 'Midnight Runz Delivery Boy';
+  static const String APP_NAME = 'Midnight Runz';
 
   static const String BASE_URL = 'https://www.midnightrunz.ng';
   static const String PROFILE_URI = '/api/v1/delivery-man/profile?token=';
